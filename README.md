@@ -2,6 +2,7 @@
 ###Overview of the analysis
 The aim of the analysis was to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. The structure of the used database was shown below:
 !image(https://github.com/beata-malachowska/Pewlett-Hackard-Analysis/blob/main/EmployeeDB.png)
+
 ###**Results**
   1. A large number of current Pewlett Hackard employees are retirement-ready what can cause a silver tsunami in following years. 
   2. Number of retiring employees per title was presented below.
