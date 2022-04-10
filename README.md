@@ -12,13 +12,9 @@ The aim of the analysis was to determine the number of retiring employees per ti
     3603	Technique Leader
     1090	Assistant Engineer
     2	Manager
-        ![image](https://user-images.githubusercontent.com/45517672/162643388-84adad57-7263-49b0-bfda-2522558bb323.png)
   3. In order to prepare for this change, new employees need ot be hired, and current employyes from lower ranks needs to be educated in order to get promoted and      fill-in the missing positions. 
   4. In order to train current and new employyes, retirement-ready employyes could be ask to be a mentors to them and provid them with necessary training. 
 1549 such employyes were found that eligibility criteria for mentorship program. Their list is provided in mentorship_eligibilty.csv file.
-
-
-
 
 ###Summary
 
