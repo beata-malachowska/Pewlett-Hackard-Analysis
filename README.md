@@ -1,5 +1,5 @@
 # Pewlett-Hackard-Analysis
-###Overview of the analysis
+###Overview of the analysis <br />
 The aim of the analysis was to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. The structure of the used database was shown below:
 !image(https://github.com/beata-malachowska/Pewlett-Hackard-Analysis/blob/main/EmployeeDB.png)
 
@@ -12,7 +12,7 @@ The aim of the analysis was to determine the number of retiring employees per ti
 
 ###Summary
 
-  __**How many roles will need to be filled as the "silver tsunami" begins to make an impact?**__
+  __**How many roles will need to be filled as the "silver tsunami" begins to make an impact?**__ <br />
       Seven different positions will be affected by silver tsunami with highest number among senior engineers and senior staff. 
-  __**Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?**__
+  __**Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?**__ <br />
       There are many retirement-ready employees (1549) still working for the company that could be asked to participate in mentorship program. 
